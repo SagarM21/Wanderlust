@@ -1,4 +1,4 @@
-# favorite_places
+# Wanderlust
 
 A new Flutter project.
 
